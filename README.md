@@ -4,6 +4,7 @@ Knowledge Base
 Right now, just a list of interesting information I'm gathering into one
 repository.
 
-[Programmer Competency Matrix](/Programmer%20Competency%20Matrix.html) -
+[Programmer Competency
+Matrix](http://htmlpreview.github.io/?https://github.com/okiwan/kb/blob/master/Programmer%20Competency%20Matrix.html) -
 Originally *mirrored* from [here](http://sijinjoseph.com/programmer-competency-matrix/). All credit goes to @sijinjoseph
 
