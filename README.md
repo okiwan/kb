@@ -10,13 +10,9 @@ Originally *mirrored* from [here](http://sijinjoseph.com/programmer-competency-m
 
 ## Game Boy
 
-[Game Boy Works](https://www.gameboyworks.com/)
-
-[Game Boy Works - Videos](https://www.youtube.com/watch?v=7O2R7QlyLkQ&feature=youtu.be)
-
-[The Game Boy, a hardware autopsy - Part 1](https://www.youtube.com/watch?v=RZUDEaLa5Nw)
-
-[The Game Boy, a hardware autopsy - Part 1.5](https://www.youtube.com/watch?v=t0V-D2YMhrs)
-
-[The Game Boy, a hardware autopsy - Part 2](https://www.youtube.com/watch?v=ecTQVa42sJc)
+[Game Boy Works](https://www.gameboyworks.com/) - 
+[Game Boy Works - Videos](https://www.youtube.com/watch?v=7O2R7QlyLkQ&feature=youtu.be) - 
+[The Game Boy, a hardware autopsy - Part 1](https://www.youtube.com/watch?v=RZUDEaLa5Nw) - 
+[The Game Boy, a hardware autopsy - Part 1.5](https://www.youtube.com/watch?v=t0V-D2YMhrs) - 
+[The Game Boy, a hardware autopsy - Part 2](https://www.youtube.com/watch?v=ecTQVa42sJc) - 
 
