@@ -6,6 +6,8 @@ repository.
 
 [Programmer Competency Matrix](http://htmlpreview.github.io/?https://github.com/okiwan/kb/blob/master/Programmer%20Competency%20Matrix.html) - Originally *mirrored* from [here](http://sijinjoseph.com/programmer-competency-matrix/). All credit goes to @sijinjoseph
 
+Game Boy
+
 [Game Boy Works](https://www.gameboyworks.com/) - Game Boy software
 calalog
 [Game Boy Works - Videos](https://www.youtube.com/watch?v=7O2R7QlyLkQ&feature=youtu.be) - First of the video series
